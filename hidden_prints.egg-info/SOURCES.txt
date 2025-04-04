@@ -1,0 +1,7 @@
+setup.py
+hidden_prints/__init__.py
+hidden_prints/hidden_prints.py
+hidden_prints.egg-info/PKG-INFO
+hidden_prints.egg-info/SOURCES.txt
+hidden_prints.egg-info/dependency_links.txt
+hidden_prints.egg-info/top_level.txt

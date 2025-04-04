@@ -1,0 +1,9 @@
+Metadata-Version: 2.2
+Name: hidden_prints
+Version: 1.0.0
+Summary: I hate prints
+Author: Zachary G. Lane
+Author-email: zacastronomy@gmail.com
+Dynamic: author
+Dynamic: author-email
+Dynamic: summary
